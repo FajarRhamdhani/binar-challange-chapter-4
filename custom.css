@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(231, 183, 116);
+}
+
+
+
+
+li{
+    list-style: none;
+}
+
+.listpict{
+    height: 100px;
+    width: 100px;
+    margin: 20px 0px 0px 0px;
+}
+
+.pictbackground {
+
+    background-color: rgba(240, 248, 255, 0.5);;
+    border: 1px solid rgba(240, 248, 255, 0.5);
+    border-radius: 20px;
+}
+
+.player:hover {
+    background-color: rgba(240, 248, 255, 0.5);;
+    border: 1px solid rgba(240, 248, 255, 0.5);
+    border-radius: 20px;
+}
+
+.refresh:hover {
+    background-color: rgba(240, 248, 255, 0.5);
+    border: 1px solid rgba(240, 248, 255, 0.5);
+    border-radius: 20px;
+    
+}
+
+.note {
+
+    background-color: green;
+    color: white;
+    transform: rotate(-20deg);
+    padding: 20px 0px 20px 10px;
+    margin: 25px 245px 50px 0px;
+
+}
+
+.versus {
+    color: red;
+    font-size: 100px;
+    margin: 150px 0px 0px 0px;
+}
